@@ -30,7 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Email List:email:
+### Email List
 
 **Yufan Liu** (yufan@live.unc.edu) **Stephen Zhao** (zyz703@live.unc.edu) **Xingda Li** (xingdali@live.unc.edu)
 
