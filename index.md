@@ -34,7 +34,7 @@ Syntax highlighted code block
 
 **Yufan Liu** (<yufan@live.unc.edu>) **Stephen Zhao** (<zyz703@live.unc.edu>) **Xingda Li** (<xingdali@live.unc.edu>)
 
-Or you can <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">email us</a>
+or you can simply click <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">email us</a>.
 
 
 
@@ -42,9 +42,6 @@ Or you can <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teamz-comp523/vcp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
