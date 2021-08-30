@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## VCP Volumetric Capture Processer App
 
-You can use the [editor on GitHub](https://github.com/teamz-comp523/vcp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[280 characters max summary]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
+a longer project description (~1 page max; target audience: your mom), describing:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- the need for the software
+- the target software platform (e.g. web app, mobile app, etc.)
+- the target users of the software
+- who the client is
+- why we should care about it
+- what the primary goals of the project are
 
 ```markdown
 Syntax highlighted code block
@@ -25,6 +29,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Email List
+
+[Yufan Liu](yufan@live.unc.edu) [Stephen Zhao](zyz703@live.unc.edu) [Xingda Li](xingdali@live.unc.edu)
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
