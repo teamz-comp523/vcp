@@ -2,49 +2,5 @@
 
 [Project](https://teamz-comp523.github.io/vcp/project.md) | [Team](https://teamz-comp523.github.io/vcp/team.md) | [Journal](https://teamz-comp523.github.io/vcp/journal.md) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.md)
 
-[280 characters max summary]
 
-### About
-a longer project description (~1 page max; target audience: your mom), describing:
-
-- the need for the software
-- the target software platform (e.g. web app, mobile app, etc.)
-- the target users of the software
-- who the client is
-- why we should care about it
-- what the primary goals of the project are
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Email List
-
-**Yufan Liu** (<yufan@live.unc.edu>) **Stephen Zhao** (<zyz703@live.unc.edu>) **Xingda Li** (<xingdali@live.unc.edu>)
-
-or you can simply click <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">email us</a>.
-
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The landing page should include an explanation of the purpose of your site: that it is part of this course (include a [link](https://comp523.cs.unc.edu) to this course web site) and contains relevant information about the project.
