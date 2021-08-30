@@ -34,6 +34,8 @@ Syntax highlighted code block
 
 **Yufan Liu** (<yufan@live.unc.edu>) **Stephen Zhao** (<zyz703@live.unc.edu>) **Xingda Li** (<xingdali@live.unc.edu>)
 
+Or you can <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">email us</a>
+
 
 
 
