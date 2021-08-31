@@ -3,5 +3,5 @@ Project name: VCP Volumetric Capture Processer App
 Project description: VCP produces volumetric 3D models from multiple video and data sources. 
 This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.
 
-We are going to present the VCP app created by the Reese Innovation Lab to the public using websites. Our website will allow authorized members to modify the data,
-publish new projects, scenes (within the projects) and captures (within the scenes) and download after the upload process is done.
+We are going to present the VCP app created by the Reese Innovation Lab to the public using websites. Our website will allow authorized members 
+to modify the data, publish new projects, scenes (within the projects) and captures (within the scenes) and download after the upload process is done.
