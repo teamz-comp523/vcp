@@ -6,29 +6,7 @@
 This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab. VCP, standing for Volumetric Capture Processor, is an app created by the Resse Innovation lab that produces volumetric 3D models from multiple video and data sources.
 
 ## Project Description
-
-### Motivation
-
-### Target Platform
-
-### Target Users
-
-### Our Client
-
-### Impacts
-
-### Goals
-
-a longer project description (~1 page max; target audience: your mom), describing:
-
-- the need for the software
-- the target software platform (e.g. web app, mobile app, etc.)
-- the target users of the software
-- who the client is
-- why we should care about it
-- what the primary goals of the project are
-
-VCP produces volumetric 3D models from multiple video and data sources. This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.
+Volumetric capture is a capturing process that captures people and turn them into 3D models. VCP produces volumetric 3D models from multiple video and data sources. This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.
 
 We are going to present the VCP app created by the Reese Innovation Lab to the public using websites. Our website will allow authorized members to modify the data, publish new projects, scenes (within the projects) and captures (within the scenes) and download after the upload process is done.
 
@@ -59,3 +37,27 @@ Views (what are within our websites):
 - Sign In
 - Sign Up
 - Support
+
+### Motivation
+Initially, applying volumetric capture would require the machine to do all the algorithms and processing locally and that would require a cost of ~$25,000. Our client was trying to design a web app to bring the cost down so that it would be accessible to daily users
+
+### Target Platform
+Our client hopes to publish this project on Web and mobile platforms.
+
+### Target Users
+Our client wants to target towards creative people that are comfortable with technologies and those who are currently using 3D modeling so that they can use their newly built app as a tool
+
+### Our Client
+Steven King, the chief innovation officer of the Resse Innovation lab, is an associate professor at the UNC School of Media and Journalism and a former editor of innovations and former director of video at The Washington Post.
+
+King combines computer science concepts, human-centered design and storytelling to create new ways to present information through emerging technologies such as virtual reality, augmented reality and interactive data-driven graphics.
+
+He also assists both the United States and foreign governments in solving difficult problems in times of crisis. During the Ebola outbreak in West Africa, King worked directly with the ministry of information in Liberia to create a data visualization dashboard to enable better decisions for fighting the disease. 
+
+He also worked with the Thai government on how to use media to lessen the violence from Islamic Insurgencies. King is a regular speaker and faculty member for various programs by the Institute for Defense and Business.
+
+### Impacts
+The project is impoatant because we are the ones that will bring the cost of the VCP app down so that it would be accessible for daily users and those who needs 3D modeling. Besides, one of their new projects that encorporates with the VCP app will detect the safe distance between students and whether the student is wearing a mask will be deployed to our campus. During this pandemic, such project is significant to our health and to the safety of the campus.
+
+### Goals
+The primary goal of this project is to manage the files in an easy way for the users with cloud services and give good feedbacks to the user
