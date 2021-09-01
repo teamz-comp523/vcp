@@ -10,4 +10,6 @@
 * Introduced the project
 
 9/1 Client Meeting
-
+* Client introduced the meaning of volumetric capture and displayed the app/project they built
+* Understood the reason and motivation behind the project
+* Talked about the goal, requirements, targeting audience and the platform of the project
