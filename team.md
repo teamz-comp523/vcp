@@ -1,13 +1,27 @@
-# [VCP Volumetric Capture Processer App](https://teamz-comp523.github.io/vcp/)
+# SAS App for Volumetric Capture Processing
 
-[Project](https://teamz-comp523.github.io/vcp/project.html) | [Team](https://teamz-comp523.github.io/vcp/team.html) | [Journal](https://teamz-comp523.github.io/vcp/journal.html) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.html)
+[Home](https://teamz-comp523.github.io/vcp/index.html) | [Project](https://teamz-comp523.github.io/vcp/project.html) | [Team](https://teamz-comp523.github.io/vcp/team.html) | [Journal](https://teamz-comp523.github.io/vcp/journal.html) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.html)
 
-### Email List
 
-**Yufan Liu** (<yufan@live.unc.edu>) **Stephen Zhao** (<zyz703@live.unc.edu>) **Xingda Li** (<xingdali@live.unc.edu>)
+## Team Roles
 
-[role]
+**Yufan Liu** (<yufan@live.unc.edu>) 
 
-or you can simply click <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">email us</a>.
+**Stephen Zhao** (<zyz703@live.unc.edu>) 
 
-### Team Rules
+**Xingda Li** (<xingdali@live.unc.edu>)
+
+
+<a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">Click here to email us</a>.
+
+## Team Rules
+### Team Behavior
+
+#### Late Policy
+
+#### Regular Meetings
+
+### Coding Style
+
+
+### Git Collaboration
