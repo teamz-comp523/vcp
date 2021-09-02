@@ -3,6 +3,11 @@
 [Home](https://teamz-comp523.github.io/vcp/index.html) | [Project](https://teamz-comp523.github.io/vcp/project.html) | [Team](https://teamz-comp523.github.io/vcp/team.html) | [Journal](https://teamz-comp523.github.io/vcp/journal.html) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.html)
 
 
+## Meeting Schedule
+- Monday 3:45-4:30pm with mentor [Vraj Patel](https://www.linkedin.com/in/patelvap/) at location TBD
+- Wednesday 3:00-4:00 with client [Steven King](https://www.linkedin.com/in/steven-king-b93885b/) at Reese Lab
+- Friday 1:25-2:40 group meeting
+
 ## Journal
 8/30 Mentor Meeting
 
