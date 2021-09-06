@@ -1,6 +1,6 @@
-# SAS App for Volumetric Capture Processing
+# [SAS App for Volumetric Capture Processing](https://teamz-comp523.github.io/vcp/index.html) 
 
-[Home](https://teamz-comp523.github.io/vcp/index.html) | [Project](https://teamz-comp523.github.io/vcp/project.html) | [Team](https://teamz-comp523.github.io/vcp/team.html) | [Journal](https://teamz-comp523.github.io/vcp/journal.html) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.html)
+| [Project](https://teamz-comp523.github.io/vcp/project.html) | [Team](https://teamz-comp523.github.io/vcp/team.html) | [Journal](https://teamz-comp523.github.io/vcp/journal.html) | [Deliverables](https://teamz-comp523.github.io/vcp/deliverables.html)
 
 ## Project Summary
 This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab. VCP, standing for Volumetric Capture Processor, is an app created by the Resse Innovation lab that produces volumetric 3D models from multiple video and data sources.
