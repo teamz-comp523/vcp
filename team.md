@@ -7,7 +7,7 @@
 
 **Yufan Liu** (<yufan@live.unc.edu>) backend lead, project manager
 
-**Stephen Zhao** (<zyz703@live.unc.edu>) frontend lead, tech lead, webmaster
+**Stephen Zhao** (<zyz703@live.unc.edu>) tech lead, webmaster, design lead
 
 **Xingda Li** (<xingdali@live.unc.edu>) infrastructure lead, frontend lead
 
