@@ -5,11 +5,11 @@
 
 ## Team Roles
 
-**Yufan Liu** (<yufan@live.unc.edu>) 
+**Yufan Liu** (<yufan@live.unc.edu>) backend lead, project manager
 
-**Stephen Zhao** (<zyz703@live.unc.edu>) 
+**Stephen Zhao** (<zyz703@live.unc.edu>) frontend lead, tech lead, webmaster
 
-**Xingda Li** (<xingdali@live.unc.edu>)
+**Xingda Li** (<xingdali@live.unc.edu>) infrastructure lead, frontend lead
 
 
 <a href="mailto:yufan@live.unc.edu,zyz703@live.unc.edu,xingdali@live.unc.edu">Click here to email us</a>.
