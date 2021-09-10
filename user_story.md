@@ -13,7 +13,7 @@ As an authenticated user, in order to display the scenes of each project, I can 
 
 As an authenticated user, in order to display the captures of each scene, I can create a new capture and upload video files to the app.
 
-As an authenticated user, in order to retireve the files (projects/scenes/captures) uploaded, I can wait till the process ends and download files from the cloud.
+As an authenticated user, in order to retrieve the files (projects/scenes/captures) uploaded, I can wait till the process ends and download files from the cloud.
 
 As an authenticated user, in order to know how to use the app, I can go to the support page and check for any useful tips.
 
