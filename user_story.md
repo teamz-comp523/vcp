@@ -1,6 +1,6 @@
-user story
+User story
 
-need to have:
+Need to have:
 
 As an new user, in order to get access to the app, I can create an account for myself to authenticate.
 
@@ -18,7 +18,8 @@ As an authenticated user, in order to know how to use the app, I can go to the s
 
 As an authenticated user, in order to protect my information and account and exit the authenticated mode, I can log out at any time with a user-friendly alert.
 
-nice to have:
+
+Nice to have:
 
 As the product owner, in order to track the details each project the users upload, I can log in to an analytics dashboard to see the recent activities.
 
