@@ -10,6 +10,14 @@
 
 ## Journal
 
+9/8 Client Meeting
+* Discussed all of features in this project
+* Created user story
+* Went over the tech stack we will use in this project
+
+9/6 Mentor Meeting
+* [TBD]
+
 9/1 Client Meeting
 * Client introduced the meaning of volumetric capture and displayed the app/project they built
 * Understood the reason and motivation behind the project
