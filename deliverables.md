@@ -5,10 +5,11 @@
 ## Deliverables
 
 * Assignment 1 Website: [https://teamz-comp523.github.io/vcp/index.html](https://teamz-comp523.github.io/vcp/index.html)
-* Assignment 2 Trello Board: [https://trello.com/b/c7Rv1ji1/comp-523](https://trello.com/b/c7Rv1ji1/comp-523)
+* Assignment 2 [Trello Board](https://trello.com/b/c7Rv1ji1/comp-523)
 <blockquote class="trello-board-compact">
   <a href="https://trello.com/b/c7Rv1ji1/comp-523-team-z">Trello Board</a>
 </blockquote>
 <script src="https://p.trellocdn.com/embed.min.js"></script>
-* Assignment 2 Project Management Document: [https://docs.google.com/document/d/1WPWbsO0q96TTaZ1N69Y4FiAHSALizMKX_jACyw22Blk/edit?usp=sharing](https://docs.google.com/document/d/1WPWbsO0q96TTaZ1N69Y4FiAHSALizMKX_jACyw22Blk/edit?usp=sharing)
-* Assignment 3 User Story: 
+
+* Assignment 2 [Project Management Document](https://docs.google.com/document/d/1WPWbsO0q96TTaZ1N69Y4FiAHSALizMKX_jACyw22Blk/edit?usp=sharing)
+* Assignment 3 [User Story](https://teamz-comp523.github.io/vcp/user_story.html)
