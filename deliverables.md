@@ -13,4 +13,4 @@
 
 * Assignment 2 [Project Management Document](https://docs.google.com/document/d/1WPWbsO0q96TTaZ1N69Y4FiAHSALizMKX_jACyw22Blk/edit?usp=sharing)
 * Assignment 3 [User Story](https://teamz-comp523.github.io/vcp/user_story.html)
-* Assignment 4 [Clickable Prototype](https://www.figma.com/file/2x8L93JWkapR10BMBtOXry/comp523-team-z?node-id=0%3A1)
+* Assignment 4 [Clickable Prototype](https://www.figma.com/proto/2x8L93JWkapR10BMBtOXry/comp523-team-z?page-id=0%3A1&node-id=50%3A290&viewport=241%2C48%2C0.44&scaling=min-zoom&starting-point-node-id=50%3A290&show-proto-sidebar=1)
