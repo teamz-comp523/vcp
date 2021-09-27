@@ -9,6 +9,20 @@
 - Friday 1:25-2:40 group meeting
 
 ## Journal
+9/23 Client Meeting
+* Decided the infrastructure
+* Shared resources about the Docker and AWS resources
+
+9/20 Mentor Meeting
+* Discussed about the architecture
+* Went through the whole clickable prototype
+
+9/15 Client Meeting
+* Went through the clickable prototype we built
+* Clarified misinterpretation of client's requirements
+
+9/13 Mentor Meeting
+* Discussed the clickable prototype
 
 9/8 Client Meeting
 * Discussed all of features in this project
@@ -16,7 +30,7 @@
 * Went over the tech stack we will use in this project
 
 9/6 Mentor Meeting
-* [TBD]
+* Discussed how to build good user stories
 
 9/1 Client Meeting
 * Client introduced the meaning of volumetric capture and displayed the app/project they built
