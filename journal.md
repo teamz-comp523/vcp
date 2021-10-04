@@ -9,6 +9,13 @@
 - Friday 1:25-2:40 group meeting
 
 ## Journal
+9/28 Client Meeting
+* Got AWS accounts and permissions
+* Set up backend development environment using Docker-compose
+
+9/27 Mentor Meeting
+* Went through the application architecture
+
 9/23 Client Meeting
 * Decided the infrastructure
 * Shared resources about the Docker and AWS resources

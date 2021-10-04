@@ -7,7 +7,7 @@
 - Summary – In order to store data persistently, we decided to use PostgreSQL. 
 - Problem – We need to make the data persistent because project data should appear on the page after the user re-login. We need to store all users ’ uploaded videos and related files in the Cloud.
 Constraints – We have a bunch of solutions available in hand: MySQL, SQLite, MongoDB, and PostgreSQL. As for MySQL and MongoDB, it is hard to implement and maintain. SQLite and PostgreSQL are both viable. Our client suggests PostgreSQL.
-- Options – 
+- Options – MySQL, PostgreSQL
 - Rationale – We select PostgreSQL for our application based on its reliability, stability, scale, and security as well as our client’s preference.
 
 ### UI and front end: ReactJS
