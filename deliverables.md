@@ -17,5 +17,5 @@
 * Assignment 5 [Apples Reflection 1](https://teamz-comp523.github.io/vcp/apples_reflection.html)
 * Assignment 6 [Application Architecture](https://teamz-comp523.github.io/vcp/app_arch.html)
 * Assignment 7 [Architecture Diagram](https://teamz-comp523.github.io/vcp/arch_diagram.html)
-* Assignment 8 [Walking Skeleton]
+* Assignment 8 [Walking Skeleton](http://vcptest-env.eba-7spnf825.us-east-1.elasticbeanstalk.com/vcp/)
 * Assignment 9 [Midterm Presentation](https://docs.google.com/presentation/d/1FifulikMlwqKVTyqCHDrhJKmYfcTlu6mX6JDo58RljI/edit?usp=sharing)
