@@ -9,6 +9,7 @@
 - Friday 1:25-2:40 group meeting
 
 ## Journal
+11/08 [Demo Video 2](https://www.youtube.com/watch?v=Tf0CpRkwgBM)
 11/01 [Demo Video 1](https://www.youtube.com/watch?v=nb212eHxlY0)
 
 9/28 Client Meeting
