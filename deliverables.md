@@ -19,4 +19,5 @@
 * Assignment 7 [Architecture Diagram](https://teamz-comp523.github.io/vcp/arch_diagram.html)
 * Assignment 8 [Walking Skeleton](http://vcptest-env.eba-7spnf825.us-east-1.elasticbeanstalk.com/vcp/)
 * Assignment 9 [Midterm Presentation](https://docs.google.com/presentation/d/1FifulikMlwqKVTyqCHDrhJKmYfcTlu6mX6JDo58RljI/edit?usp=sharing)
+* Assignment 10 [Tech Talk](https://docs.google.com/presentation/d/1LiQvTqHV3ja3O8PhbK_pKRRMHK5CjKNIWpGl3FrOn5U/edit?usp=sharing)  [Demo](https://github.com/xingdali/Websocket-demo-COMP523)
 * Assignment 11 [Test Coverage Report](https://docs.google.com/document/d/1PBBoKHPGj7BPDcb6ROVp_zuL-NqrVeQXW6SfrANJ24Q/edit?usp=sharing)
