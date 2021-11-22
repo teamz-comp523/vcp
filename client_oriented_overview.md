@@ -4,7 +4,7 @@
 
 **What are the major pieces of your overall system? Include your architecture diagram (or perhaps a simplified version of it) and describe it in a way the client can understand.**
 
-Our application is containerized using Docker in a public GitHub repository at https://github.com/teamz-comp523/vcp_project. We’ve implemented most of our functions — user authentication, project, takes, captures, and scene view. We implemented the back end using Django and front end using React. We have PostgreSQL as our database. 
+Our application is containerized using Docker in a GitHub repository at https://github.com/teamz-comp523/vcp_project. We’ve implemented most of our functions — user authentication, project, takes, captures, and scene view. We implemented the backend using Django and frontend using React. We use PostgreSQL as our database. 
 
 ![Architecture Diagram](https://teamz-comp523.github.io/vcp/diagram.jpg)
 
@@ -12,25 +12,25 @@ Our application is containerized using Docker in a public GitHub repository at h
 
 **Where is each piece deployed?**
 
-We deployed the project to AWS using ECR, RDS, and Elastic Beanstalk.
+We deployed the project to AWS Elastic Beanstalk, and the database is on AWS RDS.
 
 
 
 **How can the client manage everything? (You should give your client admin access over the infrastructure, if you haven’t already.)**
 
-The client can use the [public repository](https://github.com/teamz-comp523/vcp_project) based on its README file. We have listed clear and simple steps to build a read-to-use development environment. To manage the system, client can use [this link](http://vcptest-env.eba-7spnf825.us-east-1.elasticbeanstalk.com/) to check the back-end environment of the project.
+The client can use the [repository](https://github.com/teamz-comp523/vcp_project), and there is a comprehensive README file. We have listed clear and simple steps about how to build a read-to-use development environment. To manage the system, client can use their own AWS account to check the status of the project.
 
 
 
 **How much does everything cost? Is that subject to change? If so, under what conditions? Remember to include yearly subscriptions (like an Apple Developer membership) as well as monthly costs.**
 
-It depends on the network flow of the server. AWS has a detailed [formula](https://calculator.aws/) to calculate the cost.
+It depends on how to scale the server. Right now, the database is 29$ per year. AWS has a detailed [formula](https://calculator.aws/) to calculate the cost.
 
 
 
 **Where does the code live? Is it open source or closed source? Does the client have a license to do what they want with it?**
 
-The code is open source at https://github.com/teamz-comp523/vcp_project. . It's under MIT license and client can have full accessability over it.
+The repository is https://github.com/teamz-comp523/vcp_project. It's under MIT license and client can have full accessability over it.
 
 
 
@@ -65,9 +65,9 @@ partially complete:
 
 unstarted:
 
+- Generate 3D model files
 - Wait and download file from the cloud
 - Support
-- Put the file into whatever app they want
 
 
 
