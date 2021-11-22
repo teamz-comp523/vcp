@@ -23,6 +23,7 @@
 * Assignment 11 [Test Coverage Report](https://docs.google.com/document/d/1PBBoKHPGj7BPDcb6ROVp_zuL-NqrVeQXW6SfrANJ24Q/edit?usp=sharing)
 * Assignment 12 [developer README](https://github.com/teamz-comp523/vcp_project/blob/main/README.md)
 
-- Assignment 13 client-oriented overview
-- Assignment 14 APPLES Reflection 2
+- Assignment 13 [client-oriented overview](https://teamz-comp523.github.io/vcp/client_oriented_overview.html)
+- Assignment 14 [APPLES Reflection 2](https://teamz-comp523.github.io/vcp/apples_reflection_2.html)
 - Assignment 16 Final Presentation
+
