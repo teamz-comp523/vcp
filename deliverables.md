@@ -25,5 +25,5 @@
 
 - Assignment 13 [client-oriented overview](https://teamz-comp523.github.io/vcp/client_oriented_overview.html)
 - Assignment 14 [APPLES Reflection 2](https://teamz-comp523.github.io/vcp/apples_reflection_2.html)
-- Assignment 16 Final Presentation
+- Assignment 16 [Final Presentation](https://docs.google.com/presentation/d/1ugbRHzN2k0uksorbOXQWDdglIwpviMZ8R5QO7eRCx9U/edit?usp=sharing)
 
